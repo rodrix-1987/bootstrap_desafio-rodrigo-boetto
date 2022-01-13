@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.nav-link {
+    color: aquamarine;
+}
+
+.color-carpincho {
+    background: aquamarine;
+}
+
+.texto-carpincho {
+    color: aquamarine;
+}
+
+.form-carpincho {
+    height: 80vh;
+}
